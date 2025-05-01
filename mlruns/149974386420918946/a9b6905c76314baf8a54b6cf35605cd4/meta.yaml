@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/149974386420918946/a9b6905c76314baf8a54b6cf35605cd4/artifacts
+end_time: 1745846465812
+entry_point_name: ''
+experiment_id: '149974386420918946'
+lifecycle_stage: active
+run_id: a9b6905c76314baf8a54b6cf35605cd4
+run_name: bright-yak-978
+run_uuid: a9b6905c76314baf8a54b6cf35605cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745846465703
+status: 3
+tags: []
+user_id: kirsingh

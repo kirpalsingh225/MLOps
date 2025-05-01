@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996110286181914445/14d356d506ef45e4a78a6bab880fa979/artifacts
+end_time: 1745852580178
+entry_point_name: ''
+experiment_id: '996110286181914445'
+lifecycle_stage: active
+run_id: 14d356d506ef45e4a78a6bab880fa979
+run_name: chill-grouse-501
+run_uuid: 14d356d506ef45e4a78a6bab880fa979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852573423
+status: 3
+tags: []
+user_id: kirsingh

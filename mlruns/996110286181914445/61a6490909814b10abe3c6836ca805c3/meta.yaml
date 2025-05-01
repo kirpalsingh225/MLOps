@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/996110286181914445/61a6490909814b10abe3c6836ca805c3/artifacts
+end_time: 1745852149027
+entry_point_name: ''
+experiment_id: '996110286181914445'
+lifecycle_stage: active
+run_id: 61a6490909814b10abe3c6836ca805c3
+run_name: fun-vole-146
+run_uuid: 61a6490909814b10abe3c6836ca805c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852140521
+status: 3
+tags: []
+user_id: kirsingh
